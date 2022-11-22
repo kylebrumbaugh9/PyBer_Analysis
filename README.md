@@ -33,5 +33,11 @@ One final point to make was that is appears that the urban market is flooded wit
 
 I think this data shows a few things.
 1. Urban markets are flooded with drivers so we should not focus on hiring more drivers in urban areas. The only reason we would want to hire more drivers is if wait times are annoyingly high for our riders; I would want to complete further analysis to look at wait times but given this data, we should place a hiring freeze within the urban markets if we're paying our employees per hour. 
-2. We get more "bang for our buck" if we can increase the number of rural rides we give. Those fares run much higher and it works out well for the driver as well, so it shouldn't be too difficult to convince rural drivers to come on board. They're going to make a lot of money! The average fare is 40% higher than urban markets and almost 12% higher than suburban markets, so growing this part of our business would be beneficial.
+2. We get more "bang for our buck" if we can increase the number of rural rides we give. Those fares run much higher and it works out well for the driver as well, so it shouldn't be too difficult to convince rural drivers to come on board. They're going to make a lot of money! The average fare is 40% higher than urban markets and almost 12% higher than suburban markets, so growing this part of our business would be beneficial. Since the lack of rides probably stems from a lack of drivers, we should focus on hiring more drivers in the rural markets. 
 3. Suburban rides are the sweet spot so we should really give a lot of focus to suburban rides. The dropoff on number of rides is precipitous from urban to suburban and again from suburban to rural, but if we can shorten the gap between urban and suburban, this will increase our total fares drastically. There isn't a huge dropoff in average fare from rural to suburban but there is a large dropoff in average fare from suburban to urban. To put it another way, if we could increase the number of suburban rides by 1,000 to equal the number of urban rides but keep the same average fare, suburban fares would total over $50,000! So suburban fares would earn $11,000 more than urban on the same number of rides. 
+
+Overall, to summarize again:
+
+1. Don't hire any more urban drivers
+2. Increase the number of rural drivers
+3. Increase the number of suburban rides and drivers
